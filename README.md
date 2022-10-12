@@ -1,10 +1,10 @@
+![demo](https://user-images.githubusercontent.com/3391616/195382065-092faca0-f3d4-410d-9e50-4ff1df390531.gif)
+
 # [CloudTempo](https://cloudtempo.dev/)
 
 > Fast & Smart Command Bar for AWS Console.
 
 Navigate through AWS Console with speed. Easily find resources, perform actions with single keystrokes. Designed for power users.
-
-https://user-images.githubusercontent.com/3391616/195320303-7382bd5e-83f9-441a-893e-d7cf622cab71.mp4
 
 ## Install
 
