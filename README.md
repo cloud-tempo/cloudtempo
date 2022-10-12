@@ -8,8 +8,7 @@ Navigate through AWS Console with speed. Easily find resources, perform actions 
 
 ## Install
 
-[![](https://user-images.githubusercontent.com/3391616/195382374-aba52a79-0343-466c-a764-876e740afe79.png)]([[https://github.com/user/repository/subscription](https://chrome.google.com/webstore/detail/cloudtempo/hnjemcffliolmflachhfoeaojlomanph)](https://chrome.google.com/webstore/detail/cloudtempo/hnjemcffliolmflachhfoeaojlomanph))
-
+[<img src="https://user-images.githubusercontent.com/3391616/195382374-aba52a79-0343-466c-a764-876e740afe79.png" width="240"/>](https://chrome.google.com/webstore/detail/cloudtempo/hnjemcffliolmflachhfoeaojlomanph)
 
 ## Features
 
