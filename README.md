@@ -8,7 +8,8 @@ Navigate through AWS Console with speed. Easily find resources, perform actions 
 
 ## Install
 
-[link-chrome]: https://chrome.google.com/webstore/detail/cloudtempo/hnjemcffliolmflachhfoeaojlomanph?hl=en&authuser=0 "Version published on Chrome Web Store"
+[![](https://user-images.githubusercontent.com/3391616/195382374-aba52a79-0343-466c-a764-876e740afe79.png)]([[https://github.com/user/repository/subscription](https://chrome.google.com/webstore/detail/cloudtempo/hnjemcffliolmflachhfoeaojlomanph)](https://chrome.google.com/webstore/detail/cloudtempo/hnjemcffliolmflachhfoeaojlomanph))
+
 
 ## Features
 
