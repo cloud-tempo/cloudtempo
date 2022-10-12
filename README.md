@@ -4,6 +4,8 @@
 
 Navigate through AWS Console with speed. Easily find resources, perform actions with single keystrokes. Designed for power users.
 
+https://user-images.githubusercontent.com/3391616/195320303-7382bd5e-83f9-441a-893e-d7cf622cab71.mp4
+
 ## Install
 
 [link-chrome]: https://chrome.google.com/webstore/detail/cloudtempo/hnjemcffliolmflachhfoeaojlomanph?hl=en&authuser=0 "Version published on Chrome Web Store"
